@@ -1,10 +1,17 @@
 ---
-sidebar_position: 4
+sidebar_position: 7
 ---
+
+# All
+
+<!--
+
+## sidebar_position: 4
 
 # Markdown Features
 
-Docusaurus supports **[Markdown](https://daringfireball.net/projects/markdown/syntax)** and a few **additional features**.
+Docusaurus supports **[Markdown](https://daringfireball.net/projects/markdown/syntax)** and a few **additional
+features**.
 
 ## Front Matter
 
@@ -65,7 +72,7 @@ Markdown code blocks are supported with Syntax highlighting.
 
 ```jsx title="src/components/HelloDocusaurus.js"
 function HelloDocusaurus() {
-  return <h1>Hello, Docusaurus!</h1>;
+  return <h1>Hello, Docusaurus!</h1>
 }
 ```
 
@@ -99,7 +106,8 @@ This action is dangerous
 
 ## MDX and React Components
 
-[MDX](https://mdxjs.com/) can make your documentation more **interactive** and allows using any **React components inside Markdown**:
+[MDX](https://mdxjs.com/) can make your documentation more **interactive** and allows using any **React components
+inside Markdown**:
 
 ```jsx
 export const Highlight = ({children, color}) => (
@@ -133,12 +141,13 @@ export const Highlight = ({children, color}) => (
       cursor: 'pointer',
     }}
     onClick={() => {
-      alert(`You clicked the color ${color} with label ${children}`);
+      alert(`You clicked the color ${color} with label ${children}`)
     }}>
     {children}
   </span>
-);
+)
 
 This is <Highlight color="#25c2a0">Docusaurus green</Highlight> !
 
 This is <Highlight color="#1877F2">Facebook blue</Highlight> !
+-->
