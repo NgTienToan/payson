@@ -23,7 +23,9 @@ Là tiêu chuẩn giúp cho các lập trình viên code js một cách chuẩn 
 
 ### So sánh giữa ES5 và ES6
 
-#### 1. _Cú pháp ES6 mới 1.1 Let_
+#### 1. Cú pháp ES6 mới
+
+#### 1.1 Let
 
 - Khai báo một biến ở phạm vi block-scoped ( trong {})
 - Biến khai báo bởi let thì không có trong global object (window)
