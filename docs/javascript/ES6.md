@@ -13,7 +13,7 @@ Babel giúp viết được code ES6 mà khi complie ra sẽ biến thành code 
 ## What?
 
 **ES6** là viết tắt của **ECMAScirpt 6**. ES6 là một tập hợp kỹ thuật nâng cao của Javascript và nó là một chuẩn mực để
-làm theo và cũng là chuẩn mực để cho những framework hay thư viện phát triển. ban thangggggggg
+làm theo và cũng là chuẩn mực để cho những framework hay thư viện phát triển. ban thangggggggg duoc k
 
 ## Why?
 
