@@ -27,7 +27,7 @@ const FeatureList = [
     Svg: require('../../static/img/friendly.svg').default,
     description: (
       <>
-        Tôi đẹp trai nhưng rất thân thiện và dễ gần nha 👫
+        Tôi rất thân thiện và dễ gần nha 👫
       </>
     ),
   },
