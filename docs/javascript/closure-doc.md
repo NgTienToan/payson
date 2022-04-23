@@ -22,7 +22,7 @@ Trước tiên chúng ta cần biết qua khái niệm **Pure function** `hàm t
 Pure function chỉ phụ thuộc vào các **Agruments** `đối số` của chính nó. Dữ liệu nội bộ mà chúng ta có ở đây là một biểu
 thức đóng hoàn toàn độc lập. Khi được gọi thì sẽ đẩy vào **Callstack**
 
-![Docusaurus logo](/img/purefunc.png)
+<!-- ![Docusaurus logo](/img/purefunc.png) -->
 
 ### Impure function
 

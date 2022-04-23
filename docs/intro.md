@@ -29,7 +29,7 @@ và ... rất nhiều kiến thức tại `/blog` của mình.
 - Tiến hành cài đặt như hướng dẫn.
 - Sau đó mở VSCode lên bạn sẽ thầy được giao diện dạng thế này:
 
-![Docusaurus logo](/img/vscode.png)
+<!-- ![Docusaurus logo](/img/vscode.png) -->
 
 ### Tải và cài đặt Nodejs
 
