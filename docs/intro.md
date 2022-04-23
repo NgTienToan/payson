@@ -45,4 +45,4 @@ và ... rất nhiều kiến thức tại `/blog` của mình.
 node -v
 ```
 
-![Docusaurus logo](/img/nodev.png)
+<!-- ![Docusaurus logo](/img/nodev.png) -->
