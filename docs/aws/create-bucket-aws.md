@@ -94,4 +94,3 @@ Mình đã note lại một vài các bước để tạo một bucket và setup
   ![Docusaurus logo](/img/bucket-setup7.PNG)
 
 ### 3. Setup project Nextjs
-
